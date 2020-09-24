@@ -1,0 +1,28 @@
+{
+    "name": "testy2",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "eksperymenty/Lekcja1.md",
+        "eksperymenty/Lekcja2.md",
+        "eksperymenty/Lekcja3.md",
+        "eksperymenty/Lekcja4.md",
+        "eksperymenty/Lekcja5.md",
+        "eksperymenty/Lekcja6.md",
+        "eksperymenty/Lekcja7.md",
+        "eksperymenty/Lekcja8.md",
+        "eksperymenty/Lekcja9.md",
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
